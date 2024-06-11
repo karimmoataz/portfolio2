@@ -205,3 +205,6 @@
     margin-right: 10px;
     text-decoration: none;
 }
+header .nav_ac{
+    background: rgba(0,0,0,0);
+}

@@ -78,3 +78,10 @@
 .po_item .content a:hover {
     text-decoration: none;
 }
+.card-title{
+    font-weight:Bold;
+    font-size:140%;
+}
+.card-description{
+    color:#a9a9a1;
+}

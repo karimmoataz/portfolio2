@@ -60,6 +60,25 @@ export const Home = () => {
             </div>
           </div>
         </div>
+        <div className="stats shadow">
+        <div className="stats-container">
+          <div className="stat">
+            <div className="stat-title">Experience</div>
+            <div className="stat-value">3 Years</div>
+            <div className="stat-desc">Since nov 2021</div>
+          </div>
+          <div className="stat">
+            <div className="stat-title">Skills</div>
+            <div className="stat-value">30</div>
+            <div className="stat-desc">50% more than last Year</div>
+          </div>
+          <div className="stat">
+            <div className="stat-title">projects finished</div>
+            <div className="stat-value">40</div>
+            <div className="stat-desc">70% more than last Year</div>
+          </div>
+        </div>
+        </div>
       </section>
     </HelmetProvider>
   );
