@@ -13,6 +13,7 @@ export const Home = () => {
           <meta charSet="utf-8" />
           <title>Karim Moataz</title>
           <meta name="description" content={meta.description} />
+          <meta name="google-site-verification" content="e113PkTDovvsK5rpebGzsevaYibyWDId9yR_O-lcjJI" />
         </Helmet>
         <div className="intro_sec d-block d-lg-flex align-items-center ">
           <div
