@@ -11,7 +11,7 @@ export const Home = () => {
       <section id="home" className="home">
         <Helmet>
           <meta charSet="utf-8" />
-          <title>Karim Moataz</title>
+          <title>Karim Moataz portfolio Website</title>
           <meta name="description" content={meta.description} />
           <meta name="google-site-verification" content="e113PkTDovvsK5rpebGzsevaYibyWDId9yR_O-lcjJI" />
         </Helmet>
