@@ -184,7 +184,7 @@
 }
 
 .the_menu .menu_item>a:hover {
-    color: var(--text-color-3);
+    text-decoration:underline;
 }
 
 @media (min-width: 768px) {
