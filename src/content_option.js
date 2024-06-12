@@ -1,7 +1,7 @@
 const logotext = "Karim";
 const meta = {
     title: "Karim Moataz",
-    description: "I’m Karim Moataz data scientist _ Full stack devloper,currently working in Berlin",
+    description: "Hey, I'm Karim Moataz, I specialize in developing electronic systems, websites and apps. Excited to explore new possibilities and create impactful solutions!",
 };
 
 const introdata = {
