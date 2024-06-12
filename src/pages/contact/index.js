@@ -103,7 +103,7 @@ export const ContactUs = () => {
               <br />
               {contactConfig.hasOwnProperty("YOUR_FONE") ? (
                 <p>
-                  <strong>Phone:</strong> {contactConfig.YOUR_FONE}
+                  <strong>Phone:</strong> <a href={`tel:${contactConfig.YOUR_FONE}`}>{contactConfig.YOUR_FONE}</a> <a href="https://wa.me/qr/XBZJLH2VPEYMA1" target="blank">(whatsapp)</a>
                 </p>
               ) : (
                 ""
