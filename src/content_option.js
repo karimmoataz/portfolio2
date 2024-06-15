@@ -66,9 +66,23 @@ const services = [{
 const dataportfolio = [{
         img: "./mediq.png",
         title: "Mediq",
-        description: "Html, Css, Bootstrab and JS website",
+        description: "Html, Css, Bootstrab and Java Script",
         link: "https://mediq100.netlify.app/",
     },
+    {
+        img: "./careers.png",
+        title: "career",
+        description: "WordPress, translatePress, Css and Elementor",
+        link: "https://careercenter.i-fikra.net/",
+    },
+    {
+        img: "./leadgenz.png",
+        title: "leadgenz",
+        description: "WordPress, translatePress, Css and Elementor",
+        link: "https://growsales.i-fikra.net/",
+    },
+    
+    
 ];
 
 const contactConfig = {
