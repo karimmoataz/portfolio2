@@ -245,8 +245,7 @@ section {
     border-radius: 8px;
     padding: 20px;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-bottom: 15px; /* Space below each stat */
+    margin-bottom: 15px;
   }
   
   .stat-title {
@@ -270,7 +269,7 @@ section {
   
   @media (max-width: 768px) {
     .stat {
-      flex: 1 1 100%; /* Each stat takes full width on smaller screens */
-      max-width: none; /* Reset max-width */
+      flex: 1 1 100%;
+      max-width: none; 
     }
   }    
