@@ -65,7 +65,7 @@ export const Home = () => {
         <div className="stats-container">
           <div className="stat">
             <div className="stat-title">Experience</div>
-            <div className="stat-value">3 Years</div>
+            <div className="stat-value">2 Years</div>
             <div className="stat-desc">Since nov 2021</div>
           </div>
           <div className="stat">
@@ -75,7 +75,7 @@ export const Home = () => {
           </div>
           <div className="stat">
             <div className="stat-title">projects finished</div>
-            <div className="stat-value">40</div>
+            <div className="stat-value">10</div>
             <div className="stat-desc">70% more than last Year</div>
           </div>
         </div>

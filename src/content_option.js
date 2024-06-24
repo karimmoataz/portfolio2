@@ -43,10 +43,6 @@ const skills = [{
         name: "Nodejs",
         value: 80,
     },
-    {
-        name: "Jquery",
-        value: 75,
-    },
 ];
 
 const services = [{
