@@ -59,7 +59,14 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: "./Boom.png",
+        title: "Boom",
+        description: "Next.js, Tailwind, Clerk, Node.js, React hooks, GetStream",
+        link: "https://boom-amber.vercel.app/",
+    },
+    {
         img: "./mediq.png",
         title: "Mediq",
         description: "Html, Css, Bootstrab and Java Script",
