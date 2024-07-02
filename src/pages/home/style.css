@@ -234,15 +234,14 @@ section {
 }
 .stats-container {
     display: flex;
-    justify-content: center; /* Distribute items evenly */
-    flex-wrap: wrap; /* Allow items to wrap onto the next line */
-    gap: 100px; /* Space between items */
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px; 
   }
   
   .stat {
-    flex: 1 1 calc(50% - 15px); /* Each stat takes up equal space initially, minus the gap */
-    max-width: 300px; /* Maximum width for each stat */
-    border-radius: 8px;
+    flex: 1 1 calc(50% - 15px);
+    max-width: 300px;
     padding: 20px;
     text-align: center;
     margin-bottom: 15px;

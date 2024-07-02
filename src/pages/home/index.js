@@ -61,7 +61,7 @@ export const Home = () => {
             </div>
           </div>
         </div>
-        <div className="stats shadow">
+        <div className="stats">
         <div className="stats-container">
           <div className="stat">
             <div className="stat-title">Experience</div>
