@@ -19,29 +19,42 @@ const dataabout = {
     aboutme: "Hello! I'm Karim, I specialize in developing electronic systems, from concept to implementation. My projects often involve cutting-edge technology and a keen attention to detail, ensuring that each solution is both reliable and effective.",
 };
 
-const skills = [{
+const skills = [
+    {
+        name: "Adobe illustrator/photoshop/XD",
+        value: 100,
+    },
+    {
         name: "Html/Css",
-        value: 95,
+        value: 100,
     },
     {
-        name: "Adobe illustrator/photoshop",
+        name: "Javascript/TypeScript",
         value: 90,
     },
     {
-        name: "DataBase",
+        name: "React(NextJs)",
         value: 90,
     },
     {
-        name: "Javascript",
+        name: "Tailwind/Bootstrap",
         value: 85,
     },
     {
-        name: "React",
+        name: "DataBase",
+        value: 85,
+    },
+    {
+        name: "WordPress",
         value: 80,
     },
     {
+        name: "Git/GitHub",
+        value: 70,
+    },
+    {
         name: "Nodejs",
-        value: 80,
+        value: 60,
     },
 ];
 
@@ -54,8 +67,8 @@ const services = [{
         description: "I create responsive and user-focused websites using modern technologies to ensure optimal performance and functionality.",
     },
     {
-        title: "Mobile Apps",
-        description: "I design and develop user-friendly mobile applications that combine functionality with an intuitive user interface, ensuring a seamless and engaging experience on every device.",
+        title: "CMT Websites (WordPress)",
+        description: "I develop customized, high-performing WordPress websites tailored to meet specific client needs, ensuring seamless content management and user-friendly experiences.",
     },
 ];
 
