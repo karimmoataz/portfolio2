@@ -59,9 +59,17 @@ section {
         width: 100%;
     }
 }
+@media (max-width:560px){
+    .intro_sec .h_bg-image{
+        width: 120%;
+        position: relative;
+        right: 20%;
+        overflow: hidden;
+    }
+}
 @media (min-width:560px) and (max-width: 992px) {
     .intro_sec .h_bg-image {
-        width: 50%;
+        width: 60%;
         margin: 0 auto;
     }
 }
