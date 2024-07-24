@@ -1,4 +1,4 @@
-const logotext = "Karim";
+const logotext = "Karim.";
 const meta = {
     title: "Karim Moataz",
     description: "Hey, I'm Karim Moataz, I specialize in developing electronic systems, websites and apps. Excited to explore new possibilities and create impactful solutions!",
