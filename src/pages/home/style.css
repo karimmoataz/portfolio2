@@ -36,6 +36,10 @@ section {
     height: 100vh;
     margin-top: -60px;
 }
+.intro_sec .h_bg-image{
+    background-image: var(--bg-img);
+    margin-right: 5%;
+}
 
 @media (max-width:991.98px) {
     .intro_sec {
@@ -53,6 +57,12 @@ section {
     .intro_sec .text,
     .intro_sec .h_bg-image {
         width: 100%;
+    }
+}
+@media (min-width:560px) and (max-width: 992px) {
+    .intro_sec .h_bg-image {
+        width: 50%;
+        margin: 0 auto;
     }
 }
 

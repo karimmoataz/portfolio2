@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 856.87 950.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f08e;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: Poppins-Medium, Poppins;
+        font-size: 26px;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-4, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        fill: #706bff;
+      }
+
+      .cls-3 {
+        fill: #fda4e0;
+      }
+
+      .cls-10 {
+        fill: #2d29c2;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-12 {
+        stroke: #fda4e0;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-12, .cls-13 {
+        fill: none;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7, .cls-14 {
+        font-family: Righteous-Regular, Righteous;
+        font-size: 106.08px;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-13" cx="435.46" cy="530.66" r="238"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="cls-12" d="m761.5,949.15h-160.24c-26.05,0-47.25-21.2-47.25-47.25s21.2-47.25,47.25-47.25h160.24c26.05,0,47.25,21.2,47.25,47.25s-21.2,47.25-47.25,47.25Z"/>
+    <path class="cls-1" d="m483.55,949.15h-160.24c-26.05,0-47.25-21.2-47.25-47.25s21.2-47.25,47.25-47.25h160.24c26.05,0,47.25,21.2,47.25,47.25s-21.2,47.25-47.25,47.25Z"/>
+    <path class="cls-10" d="m207.49,949.15H47.25c-26.05,0-47.25-21.2-47.25-47.25s21.2-47.25,47.25-47.25h160.24c26.05,0,47.25,21.2,47.25,47.25s-21.2,47.25-47.25,47.25Z"/>
+  </g>
+  <text class="cls-14" transform="translate(14.06 215.88)"><tspan class="cls-9" x="0" y="0">WEB</tspan><tspan class="cls-5" x="218.95" y="0" xml:space="preserve"> DEVE</tspan><tspan class="cls-6" x="504.51" y="0">L</tspan><tspan class="cls-8" x="561.7" y="0">OPER</tspan></text>
+  <text class="cls-7" transform="translate(188.54 90.18)"><tspan x="0" y="0">I’M KARIM</tspan></text>
+  <g>
+    <text class="cls-4" transform="translate(34.98 926.57)"><tspan x="0" y="0">WEB DEVELOPER</tspan></text>
+    <text class="cls-3" transform="translate(651.61 925.72)"><tspan x="0" y="0">UX DESIGN</tspan></text>
+    <text class="cls-2" transform="translate(338.83 926.48)"><tspan x="0" y="0">UI/UX DESIGN</tspan></text>
+  </g>
+  <g class="cls-11">
+    <image width="387" height="387" transform="translate(191.46 292.66) scale(1.23)" xlink:href="me.jpg"/>
+  </g>
+</svg>
