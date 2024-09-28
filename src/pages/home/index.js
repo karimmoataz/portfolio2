@@ -75,7 +75,7 @@ export const Home = () => {
           </div>
           <div className="stat">
             <div className="stat-title">projects finished</div>
-            <div className="stat-value">10</div>
+            <div className="stat-value">15</div>
             <div className="stat-desc">70% more than last Year</div>
           </div>
         </div>
