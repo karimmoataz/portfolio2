@@ -21,10 +21,6 @@ const dataabout = {
 
 const skills = [
     {
-        name: "Adobe illustrator/photoshop/XD",
-        value: 100,
-    },
-    {
         name: "Html/Css",
         value: 100,
     },
@@ -41,6 +37,10 @@ const skills = [
         value: 85,
     },
     {
+        name: "Adobe illustrator/photoshop/XD",
+        value: 100,
+    },
+    {
         name: "DataBase",
         value: 85,
     },
@@ -49,7 +49,7 @@ const skills = [
         value: 80,
     },
     {
-        name: "Git/GitHub",
+        name: "GitHub",
         value: 70,
     },
     {
@@ -84,6 +84,12 @@ const dataportfolio = [
         title: "Mediq",
         description: "Html, Css, Bootstrab and Java Script",
         link: "https://mediq100.netlify.app/",
+    },
+    {
+        img: "./sitevendor.png",
+        title: "SiteVendor",
+        description: "WordPress, Dynamic Posts, Css and Elementor",
+        link: "https://sitevendor.online/",
     },
     {
         img: "./careers.png",

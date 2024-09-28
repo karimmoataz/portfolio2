@@ -54,7 +54,7 @@ const Headermain = () => {
             <div className="d-flex">
             <a href={socialprofils.facebook} target="blank">Facebook</a>
             <a href={socialprofils.github} target="blank">Github</a>
-            <a href={socialprofils.twitter} target="blank">Twitter</a>
+            <a href={socialprofils.linkedin} target="blank">linked In</a>
             </div>
             <p className="copyright m-0">copyright __ {logotext} Moataz</p>
           </div>
