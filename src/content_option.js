@@ -41,12 +41,12 @@ const skills = [
         value: 100,
     },
     {
-        name: "DataBase",
-        value: 85,
+        name: "WordPress",
+        value: 90,
     },
     {
-        name: "WordPress",
-        value: 80,
+        name: "DataBase",
+        value: 85,
     },
     {
         name: "GitHub",
@@ -76,31 +76,37 @@ const dataportfolio = [
     {
         img: "./Boom.png",
         title: "Boom",
-        description: "Next.js, Tailwind, Clerk, Node.js, React hooks, GetStream",
+        description: "A zoom clone website where you can start your online meeting",
         link: "https://boom-amber.vercel.app/",
+    },
+    {
+        img: "./Zhack.png",
+        title: "Zhack",
+        description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
+        link: "https://zhack.tech/",
     },
     {
         img: "./mediq.png",
         title: "Mediq",
-        description: "Html, Css, Bootstrab and Java Script",
+        description: "A hospital website to demonstrate the hospital details and make appointments",
         link: "https://mediq100.netlify.app/",
     },
     {
         img: "./sitevendor.png",
         title: "SiteVendor",
-        description: "WordPress, Dynamic Posts, Css and Elementor",
+        description: "A blog talks about the newest development technologies",
         link: "https://sitevendor.online/",
     },
     {
         img: "./careers.png",
         title: "career",
-        description: "WordPress, translatePress, Css and Elementor",
+        description: "A recruiting agency website",
         link: "https://careercenter.i-fikra.net/",
     },
     {
         img: "./leadgenz.png",
         title: "leadgenz",
-        description: "WordPress, translatePress, Css and Elementor",
+        description: "A Sales agency website",
         link: "https://growsales.i-fikra.net/",
     },
     
