@@ -1,11 +1,25 @@
-import React from "react";
+"use client"
+import React, { useState, useEffect } from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
-import { introdata, meta } from "../../content_option";
+import { introdata, meta, testimonials } from "../../content_option";
 import { Link } from "react-router-dom";
 
 export const Home = () => {
+
+ // State to manage the current testimonial being displayed
+ const [currentTestimonial, setCurrentTestimonial] = useState(0);
+
+ // Change testimonials every 5 seconds
+ useEffect(() => {
+   const interval = setInterval(() => {
+     setCurrentTestimonial((prev) => (prev + 1) % testimonials.length);
+   }, 5000);
+   return () => clearInterval(interval);
+ }, [testimonials.length]);
+
+
   return (
     <HelmetProvider>
       <section id="home" className="home">
@@ -79,6 +93,23 @@ export const Home = () => {
             <div className="stat-desc">70% more than last Year</div>
           </div>
         </div>
+        </div>
+        <div className="testimonial my-5">
+          <h2 className="text-center my-5">Testimonials</h2>
+          <div className="testimonial-slider-container">
+            <div className="testimonial-slide" key={currentTestimonial}>
+              <blockquote className="testimonial-block">
+                <p className="testimonial-quote">
+                  <strong>{testimonials[currentTestimonial].quote}</strong>
+                </p>
+                <cite className="testimonial-author">
+                  {testimonials[currentTestimonial].author}
+                </cite>
+              </blockquote>
+            </div>
+            <button className="slider-button prev" onClick={() => setCurrentTestimonial((prev) => (prev - 1 + testimonials.length) % testimonials.length)}>❮</button>
+            <button className="slider-button next" onClick={() => setCurrentTestimonial((prev) => (prev + 1) % testimonials.length)}>❯</button>
+          </div>
         </div>
       </section>
     </HelmetProvider>

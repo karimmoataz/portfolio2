@@ -290,3 +290,81 @@ section {
       max-width: none; 
     }
   }    
+/* Container styling for the testimonial slider */
+
+.testimonial-slider-container {
+    position: relative;
+    overflow: hidden;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Slide styling */
+  .testimonial-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.5s ease;
+  }
+  
+  /* General block styling for each testimonial */
+  .testimonial-block {
+    padding: 20px;
+    width: 100%;
+  }
+  
+  /* Styling for the quote in the testimonial */
+  .testimonial-quote {
+    color: var(--text-color);
+    border-bottom: 1px solid #ccc; 
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling for the author of the testimonial */
+  .testimonial-author {
+    display: block;
+    text-align: right;
+    font-size: 1rem;
+    color: #0073e6;
+    font-weight: bold;
+    margin-top: 10px; /* Added margin for spacing */
+  }
+  
+  /* Separator line between the quote and author */
+  .testimonial-separator {
+    border-top: 1px solid #ccc; /* Light gray line */
+    margin: 10px 0; /* Space around the separator */
+  }
+  
+  /* Button styling for slider navigation */
+/* Button styling for slider navigation */
+.slider-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: transparent; /* Changed to transparent */
+    border: none; /* Removed border */
+    cursor: pointer;
+    color: var(--text-color);
+    font-size: 1.5rem;
+    z-index: 1;
+    transition: color 0.3s ease; /* Added transition for color */
+  }
+  
+  /* Additional styles for the previous and next buttons */
+  .prev {
+    left: 10px;
+  }
+  
+  .next {
+    right: 10px;
+  }
+  
+  /* Change text color on hover */
+  .slider-button:hover {
+    color: #0073e6; /* Change to your desired hover color */
+  }
+  

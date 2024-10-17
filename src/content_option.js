@@ -13,6 +13,16 @@ const introdata = {
     description: "Excited to explore new possibilities and create impactful solutions! Let's build something amazing together.",
     your_img_url: "/Heroimg.png",
 };
+const testimonials = [
+    {
+      quote: '"Kareem did an incredible job creating a custom website for my business. He listened carefully to my needs, provided valuable insights, and delivered a sleek, responsive site that exceeded expectations. The entire process was smooth, professional, and on time. I highly recommend Kareem for anyone looking for top-notch web development services!"',
+      author: "Ahmed Nabeel, Z Hack",
+    },
+    {
+        quote: '"Kareem did an incredible job creating a custom website for my business. He listened carefully to my needs, provided valuable insights, and delivered a sleek, responsive site that exceeded expectations. The entire process was smooth, professional, and on time. I highly recommend Kareem for anyone looking for top-notch web development services!"',
+        author: "Ahmed Nabeel, Z Hack",
+    },
+];
 
 const dataabout = {
     title: "abit about my self",
@@ -133,6 +143,7 @@ const socialprofils = {
 export {
     meta,
     dataabout,
+    testimonials,
     dataportfolio,
     skills,
     services,
