@@ -68,16 +68,13 @@ const skills = [
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "I create intuitive, engaging, and visually appealing interfaces that enhance user experiences through thoughtful design and meticulous attention to detail.",
-    },
+const services = [
     {
         title: "Website Devlopment",
         description: "I create responsive and user-focused websites using modern technologies to ensure optimal performance and functionality.",
     },
     {
-        title: "CMT Websites (WordPress)",
+        title: "CMS Websites (WordPress)",
         description: "I develop customized, high-performing WordPress websites tailored to meet specific client needs, ensuring seamless content management and user-friendly experiences.",
     },
 ];
