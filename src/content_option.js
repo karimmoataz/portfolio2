@@ -87,6 +87,12 @@ const dataportfolio = [
         link: "https://boom-amber.vercel.app/",
     },
     {
+        img: "./AskKarimMoataz.webp",
+        title: "AskKarimMoataz",
+        description: "AI-powered insights for any online article with our intelligent chatbot.",
+        link: "https://ask.karimmoataz.com/",
+    },
+    {
         img: "./Zhack.png",
         title: "Zhack",
         description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
