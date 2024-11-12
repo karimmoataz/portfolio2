@@ -87,16 +87,22 @@ const dataportfolio = [
         link: "https://boom-amber.vercel.app/",
     },
     {
+        img: "./Zhack.png",
+        title: "Zhack",
+        description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
+        link: "https://zhack.tech/",
+    },
+    {
         img: "./AskKarimMoataz.webp",
         title: "AskKarimMoataz",
         description: "AI-powered insights for any online article with our intelligent chatbot.",
         link: "https://ask.karimmoataz.com/",
     },
     {
-        img: "./Zhack.png",
-        title: "Zhack",
-        description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
-        link: "https://zhack.tech/",
+        img: "./amedia.png",
+        title: "A Media",
+        description: "A portfolio website for a production house to showcase their creative projects and expertise.",
+        link: "https://a-media.net/",
     },
     {
         img: "./mediq.png",
