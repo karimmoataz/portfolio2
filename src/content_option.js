@@ -93,6 +93,12 @@ const dataportfolio = [
         link: "https://zhack.tech/",
     },
     {
+        img: "./sense-sa.png",
+        title: "sense-sa",
+        description: "A store website for a Saudi company that sells electronic devices and accessories.",
+        link: "https://sense-sa.com",
+    },
+    {
         img: "./AskKarimMoataz.webp",
         title: "AskKarimMoataz",
         description: "AI-powered insights for any online article with our intelligent chatbot.",
@@ -109,12 +115,6 @@ const dataportfolio = [
         title: "Mediq",
         description: "A hospital website to demonstrate the hospital details and make appointments",
         link: "https://mediq100.netlify.app/",
-    },
-    {
-        img: "./sitevendor.png",
-        title: "SiteVendor",
-        description: "A blog talks about the newest development technologies",
-        link: "https://sitevendor.online/",
     },
     {
         img: "./careers.png",
