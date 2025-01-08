@@ -10,6 +10,7 @@ export const Home = () => {
 
  // State to manage the current testimonial being displayed
  const [currentTestimonial, setCurrentTestimonial] = useState(0);
+ 
 
  // Change testimonials every 5 seconds
  useEffect(() => {
@@ -102,9 +103,9 @@ export const Home = () => {
                 <p className="testimonial-quote">
                   <strong>{testimonials[currentTestimonial].quote}</strong>
                 </p>
-                <cite className="testimonial-author">
+                <Link to="/portfolio" className="testimonial-author">
                   {testimonials[currentTestimonial].author}
-                </cite>
+                </Link>
               </blockquote>
             </div>
             <button className="slider-button prev" onClick={() => setCurrentTestimonial((prev) => (prev - 1 + testimonials.length) % testimonials.length)}>❮</button>

@@ -291,7 +291,9 @@ section {
     }
   }    
 /* Container styling for the testimonial slider */
-
+.testimonial{
+    min-height: 50vh;
+}
 .testimonial-slider-container {
     position: relative;
     overflow: hidden;
@@ -326,6 +328,7 @@ section {
   /* Styling for the author of the testimonial */
   .testimonial-author {
     display: block;
+    text-decoration: none;
     text-align: right;
     font-size: 1rem;
     color: #0073e6;

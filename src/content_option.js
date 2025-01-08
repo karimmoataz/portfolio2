@@ -19,8 +19,8 @@ const testimonials = [
       author: "Ahmed Nabeel, Z Hack",
     },
     {
-        quote: '"Kareem did an incredible job creating a custom website for my business. He listened carefully to my needs, provided valuable insights, and delivered a sleek, responsive site that exceeded expectations. The entire process was smooth, professional, and on time. I highly recommend Kareem for anyone looking for top-notch web development services!"',
-        author: "Ahmed Nabeel, Z Hack",
+        quote: `"Karim was amazing, so patient with us, always quick to reply, and super open to trying out all the ideas we threw at him. Couldn't have asked for better!"`,
+        author: "Ahmed, TWRAgency",
     },
 ];
 
@@ -81,10 +81,10 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "./Boom.png",
-        title: "Boom",
-        description: "A zoom clone website where you can start your online meeting",
-        link: "https://boom-amber.vercel.app/",
+        img: "./TWR.webp",
+        title: "TWRAgency",
+        description: "A website to for a marketing company that provides a wide range of services to help businesses grow.",
+        link: "https://www.twrmarketing.com/",
     },
     {
         img: "./Zhack.png",
@@ -111,22 +111,16 @@ const dataportfolio = [
         link: "https://a-media.net/",
     },
     {
+        img: "./Boom.png",
+        title: "Boom",
+        description: "A zoom clone website where you can start your online meeting",
+        link: "https://boom-amber.vercel.app/",
+    },
+    {
         img: "./mediq.png",
         title: "Mediq",
         description: "A hospital website to demonstrate the hospital details and make appointments",
         link: "https://mediq100.netlify.app/",
-    },
-    {
-        img: "./careers.png",
-        title: "career",
-        description: "A recruiting agency website",
-        link: "https://careercenter.i-fikra.net/",
-    },
-    {
-        img: "./leadgenz.png",
-        title: "leadgenz",
-        description: "A Sales agency website",
-        link: "https://growsales.i-fikra.net/",
     },
     
     
