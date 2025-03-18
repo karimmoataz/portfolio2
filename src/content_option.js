@@ -77,6 +77,10 @@ const services = [
         title: "CMS Websites (WordPress)",
         description: "I develop customized, high-performing WordPress websites tailored to meet specific client needs, ensuring seamless content management and user-friendly experiences.",
     },
+    {
+        title: "Mobile Applications (iOS & Android)",
+        description: "I design and build intuitive, high-performance mobile applications for both iOS and Android platforms, delivering engaging user experiences and robust functionality."
+    }
 ];
 
 const dataportfolio = [
@@ -99,10 +103,10 @@ const dataportfolio = [
         link: "https://sense-sa.com",
     },
     {
-        img: "./AskKarimMoataz.webp",
-        title: "AskKarimMoataz",
-        description: "AI-powered insights for any online article with our intelligent chatbot.",
-        link: "https://ask.karimmoataz.com/",
+        img: "./aic-contracting.png",
+        title: "AIC contracting",
+        description: "a portfolio site for a constructing company to showcase their projects and services.",
+        link: "https://aic-contracting.ae",
     },
     {
         img: "./amedia.png",
