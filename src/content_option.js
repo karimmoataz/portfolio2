@@ -98,9 +98,9 @@ const dataportfolio = [
     },
     {
         img: "./sense-sa.png",
-        title: "sense-sa",
+        title: "security sense",
         description: "A store website for a Saudi company that sells electronic devices and accessories.",
-        link: "https://sense-sa.com",
+        link: "https://sense-se.com",
     },
     {
         img: "./aic-contracting.png",
