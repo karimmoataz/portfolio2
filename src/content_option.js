@@ -1,7 +1,7 @@
 const logotext = "Karim.";
 const meta = {
-    title: "Karim Moataz",
-    description: "Hey, I'm Karim Moataz, I specialize in developing electronic systems, websites and apps. Excited to explore new possibilities and create impactful solutions!",
+    title: "Karim Moataz | Web Developer in Egypt",
+    description: "Hi, I'm Karim Moataz — a passionate web developer based in Egypt. I build modern websites and apps that deliver real value. Explore my portfolio to see my work!",
 };
 
 const introdata = {
@@ -107,6 +107,12 @@ const dataportfolio = [
         title: "AIC contracting",
         description: "a portfolio site for a constructing company to showcase their projects and services.",
         link: "https://aic-contracting.ae",
+    },
+    {
+        img: "./wisdomnet.png",
+        title: "WisdomNet",
+        description: "A global platform uniting conscious entities and citizens to foster shared prosperity and planetary wellbeing.",
+        link: "https://wisdomnets.com",
     },
     {
         img: "./amedia.png",
