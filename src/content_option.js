@@ -85,6 +85,12 @@ const services = [
 
 const dataportfolio = [
     {
+        img: "./propshare.webp",
+        title: "PropShare",
+        description: "A real estate app that allows users to buy a share in a property.",
+        link: "https://683746bae315899763bf879e--inquisitive-cannoli-bd0301.netlify.app/",
+    },
+    {
         img: "./TWR.webp",
         title: "TWRAgency",
         description: "A website to for a marketing company that provides a wide range of services to help businesses grow.",
@@ -96,12 +102,7 @@ const dataportfolio = [
         description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
         link: "https://zhack.tech/",
     },
-    {
-        img: "./sense-sa.webp",
-        title: "security sense",
-        description: "A store website for a Saudi company that sells electronic devices and accessories.",
-        link: "https://sense-se.com",
-    },
+    
     {
         img: "./aic-contracting.webp",
         title: "AIC contracting",
@@ -115,22 +116,21 @@ const dataportfolio = [
         link: "https://wisdomnets.com",
     },
     {
-        img: "./amedia.webp",
-        title: "A Media",
-        description: "A portfolio website for a production house to showcase their creative projects and expertise.",
-        link: "https://a-media.net/",
-    },
-    {
         img: "./Boom.png",
         title: "Boom",
         description: "A zoom clone website where you can start your online meeting",
         link: "https://boom-amber.vercel.app/",
     },
     {
-        img: "./mediq.webp",
-        title: "Mediq",
-        description: "A hospital website to demonstrate the hospital details and make appointments",
-        link: "https://mediq100.netlify.app/",
+        img: "./heptora-eg.webp",
+        title: "heptora eg",
+        description: "A store website for an Egyptian local brand.",
+        link: "https://heptora-eg.com",
+    },{
+        img: "./sense-sa.webp",
+        title: "security sense",
+        description: "A store website for a Saudi company that sells electronic devices and accessories.",
+        link: "https://sense-se.com",
     },
     
     
