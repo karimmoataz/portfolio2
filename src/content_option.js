@@ -104,9 +104,15 @@ const dataportfolio = [
     },
     
     {
+        img: "./kappaacca.webp",
+        title: "Kappa Acca",
+        description: "a portfolio site for a real estate company in dubai to showcase their projects and services.",
+        link: "https://kappaacca.ae/",
+    },
+    {
         img: "./aic-contracting.webp",
         title: "AIC contracting",
-        description: "a portfolio site for a constructing company to showcase their projects and services.",
+        description: "a portfolio site for a constructing company in dubai to showcase their projects and services.",
         link: "https://aic-contracting.ae",
     },
     {
