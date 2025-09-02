@@ -84,12 +84,12 @@ const services = [
 ];
 
 const dataportfolio = [
-    // {
-    //     img: "./propshare.webp",
-    //     title: "PropShare",
-    //     description: "A real estate app that allows users to buy a share in a property.",
-    //     link: "https://inquisitive-cannoli-bd0301.netlify.app",
-    // },
+    {
+        img: "./propshare.webp",
+        title: "PropShare",
+        description: "A real estate app that allows users to buy a share in a property.",
+        link: "https://inquisitive-cannoli-bd0301.netlify.app",
+    },
     {
         img: "./TWR.webp",
         title: "TWRAgency",
