@@ -91,10 +91,22 @@ const dataportfolio = [
         link: "https://inquisitive-cannoli-bd0301.netlify.app",
     },
     {
+        img: "./leads-construction.webp",
+        title: "leads-construction",
+        description: "a portfolio site for a constructing company in Egypt to showcase their projects and services.",
+        link: "https://leads-construction.com",
+    },
+    {
         img: "./TWR.webp",
         title: "TWRAgency",
         description: "A website to for a marketing company that provides a wide range of services to help businesses grow.",
         link: "https://www.twrmarketing.com/",
+    },
+    {
+        img: "./aic-contracting.webp",
+        title: "AIC contracting",
+        description: "a portfolio site for a constructing company in Dubai to showcase their projects and services.",
+        link: "https://aic-contracting.ae",
     },
     {
         img: "./Zhack.webp",
@@ -102,18 +114,11 @@ const dataportfolio = [
         description: "A website to connect an Egyptian business with the top Chinese PC hardware companies.",
         link: "https://zhack.tech/",
     },
-    
     {
         img: "./kappaacca.webp",
         title: "Kappa Acca",
         description: "a portfolio site for a real estate company in dubai to showcase their projects and services.",
         link: "https://kappaacca.ae/",
-    },
-    {
-        img: "./aic-contracting.webp",
-        title: "AIC contracting",
-        description: "a portfolio site for a constructing company in dubai to showcase their projects and services.",
-        link: "https://aic-contracting.ae",
     },
     {
         img: "./wisdomnet.webp",
