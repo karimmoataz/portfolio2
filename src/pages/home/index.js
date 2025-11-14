@@ -80,8 +80,8 @@ export const Home = () => {
         <div className="stats-container">
           <div className="stat">
             <div className="stat-title">Experience</div>
-            <div className="stat-value">2 Years</div>
-            <div className="stat-desc">Since nov 2022</div>
+            <div className="stat-value">4 Years</div>
+            <div className="stat-desc">Since nov 2020</div>
           </div>
           <div className="stat">
             <div className="stat-title">Skills</div>
