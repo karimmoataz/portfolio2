@@ -97,6 +97,12 @@ const dataportfolio = [
         link: "https://leads-construction.com",
     },
     {
+        img: "./themaineclub.webp",
+        title: "the maine club",
+        description: "A modern, user-friendly e-commerce website designed for a local Egyptian brand.",
+        link: "https://themaineclubegypt.com",
+    },
+    {
         img: "./TWR.webp",
         title: "TWRAgency",
         description: "A website to for a marketing company that provides a wide range of services to help businesses grow.",
@@ -107,6 +113,12 @@ const dataportfolio = [
         title: "AIC contracting",
         description: "a portfolio site for a constructing company in Dubai to showcase their projects and services.",
         link: "https://aic-contracting.ae",
+    },
+    {
+        img: "./edg.webp",
+        title: "EDG Architecte",
+        description: "A portfolio site for an architecture firm in Egypt to showcase their projects and services.",
+        link: "https://edg-egypt.com/",
     },
     {
         img: "./Zhack.webp",
@@ -135,7 +147,7 @@ const dataportfolio = [
     {
         img: "./heptora-eg.webp",
         title: "heptora eg",
-        description: "A store website for an Egyptian local brand.",
+        description: "A modern, user-friendly e-commerce website designed for a local Egyptian brand.",
         link: "https://heptora-eg.com",
     },{
         img: "./sense-sa.webp",
